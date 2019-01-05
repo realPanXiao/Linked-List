@@ -6,7 +6,7 @@ The developer guide is for anyone wanting to either write code about the Linked 
 ([Please start here](https://github.com/realPanXiao/Linked-List/blob/master/CONTRIBUTING.md)) to learn about how to contribute to Linked List.
 
 * **FAQ**
-([](https://github.com/realPanXiao/Linked-List/blob/master/FAQ.md)) to know the answers to frequently asked questions
+((https://github.com/realPanXiao/Linked-List/blob/master/FAQ.md)) to know the answers to frequently asked questions
 
 * **Install**
 ([](https://github.com/realPanXiao/Linked-List/blob/master/INSTALL.md)) Configure, compile, and install the project description information.
