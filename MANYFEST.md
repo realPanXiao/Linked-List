@@ -6,25 +6,25 @@ The developer guide is for anyone wanting to either write code about the Linked 
 ([Please start here](https://github.com/realPanXiao/Linked-List/blob/master/CONTRIBUTING.md)) to learn about how to contribute to Linked List.
 
 * **FAQ**
-((https://github.com/realPanXiao/Linked-List/blob/master/FAQ.md)) to know the answers to frequently asked questions
+([FAQ](https://github.com/realPanXiao/Linked-List/blob/master/FAQ.md)) to know the answers to frequently asked questions
 
 * **Install**
-([](https://github.com/realPanXiao/Linked-List/blob/master/INSTALL.md)) Configure, compile, and install the project description information.
+([Install](https://github.com/realPanXiao/Linked-List/blob/master/INSTALL.md)) Configure, compile, and install the project description information.
 
 * **News**
-([](https://github.com/realPanXiao/Linked-List/blob/master/NEWS.md)) Some recent news and developments on the project.
+([News](https://github.com/realPanXiao/Linked-List/blob/master/NEWS.md)) Some recent news and developments on the project.
 
 * **Tags**
-([](https://github.com/realPanXiao/Linked-List/blob/master/TAGS.md)) Some of our labels.
+([Tags](https://github.com/realPanXiao/Linked-List/blob/master/TAGS.md)) Some of our labels.
 
 * **Credits**
-([](https://github.com/realPanXiao/Linked-List/blob/master/CREDITS.md)) A list of all contributors to this project.
+([Credits](https://github.com/realPanXiao/Linked-List/blob/master/CREDITS.md)) A list of all contributors to this project.
 
 * **History**
-([](https://github.com/realPanXiao/Linked-List/blob/master/HISTORY.md)) Historical development and evolution of the project.
+([History](https://github.com/realPanXiao/Linked-List/blob/master/HISTORY.md)) Historical development and evolution of the project.
 
 * **Copying**
-([](https://github.com/realPanXiao/Linked-List/blob/master/COPYING.md)) License terms used for this project.
+([Copying](https://github.com/realPanXiao/Linked-List/blob/master/COPYING.md)) License terms used for this project.
 
-* **Licens**
-([](https://github.com/realPanXiao/Linked-List/blob/master/LICENSE)) License terms document of this project.
+* **License**
+([License](https://github.com/realPanXiao/Linked-List/blob/master/LICENSE)) License terms document of this project.
